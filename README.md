@@ -16,7 +16,7 @@ Corinna Coupette, Janis Beckedorf, Dirk Hartung, Michael Bommarito, and Daniel M
 
 1. It is assumed that you have Python 3.7 installed. (Other versions are not tested.)
 2. Set up a virtual environment and activate it. (This is not required but recommended.)
-3. Download the data at https://doi.org/10.5281/zenodo.4660133, extract it, so that `legal-networks-data` is next to the folder of this repository and has the subfolders `de`, `us`, and `us_reg`. Their subfolders must be manually extracted, if needed when running the code.
+3. Download the data at https://doi.org/10.5281/zenodo.4660133, extract it, so that `legal-networks-data` is next to the folder of this repository and has the subfolders `de`, `us`, and `us_reg`. Their subfolders must be manually extracted, if needed to run the analysis.
 5. Run `run_analysis_and_notebooks.sh` to install the requirements and run the code.
 6. The results are available in this folder `writing`.
 
