@@ -1,0 +1,101 @@
+n,m_s,out_degree,in_degree,type,hub,description,key,document_type
+1637,542,0,1636,Sink,Sec. 552 TITLE 5-GOVERNMENT ORGANIZATION AND EMPLOYEES,,050_1998_000149,statute
+721,166,2,718,Sink,§ 125.30 Purpose and scope. Title 40,,cfr40v13_1998_014181,regulation
+714,163,1,712,Sink,§ 125.32 Method of application. Title 40,,cfr40v13_1998_014218,regulation
+703,188,2,700,Sink,Sec. 552a TITLE 5-GOVERNMENT ORGANIZATION AND EMPLOYEES,,050_1998_000253,statute
+502,3,1,500,Sink,§ 721.125 Recordkeeping requirements. Title 40,,cfr40v22_1998_003495,regulation
+486,5,2,483,Sink,§ 721.185 Limitation or revocation of certain notification requirements. Title 40,,cfr40v22_1998_003602,regulation
+333,3,0,332,Sink,"§ 721.80 Industrial, commercial, and consumer activities. Title 40",,cfr40v22_1998_003380,regulation
+290,17,3,288,Sink,§ 403.7 Removal credits. Title 40,,cfr40v20_1998_000288,regulation
+271,78,19,261,Sink,Sec. 501 TITLE 26-INTERNAL REVENUE CODE,,260_1998_022012,statute
+249,0,1,247,Sink,§ 721.72 Hazard communication program. Title 40,,cfr40v22_1998_003238,regulation
+248,49,0,247,Sink,Sec. 553 TITLE 5-GOVERNMENT ORGANIZATION AND EMPLOYEES,,050_1998_000497,statute
+244,28,0,243,Sink,Sec. 1001 TITLE 18-CRIMES AND CRIMINAL PROCEDURE,,180_1998_002541,statute
+237,1,0,236,Sink,§ 721.90 Release to water. Title 40,,cfr40v22_1998_003436,regulation
+234,39,0,233,Sink,Sec. 554 TITLE 5-GOVERNMENT ORGANIZATION AND EMPLOYEES,,050_1998_000513,statute
+231,31,5,225,Sink,Sec. 794 TITLE 29-LABOR,,290_1998_004131,statute
+214,18,211,2,Source,§ 2.22 Assistant Secretary for Marketing and Regulatory Programs. Title 7,,cfr7v1_1998_002495,regulation
+205,5,4,201,Sink,§ 170.3 Definitions. Title 21,,cfr21v3_1998_000003,regulation
+203,103,0,202,Sink,Sec. 4151 TITLE 42-THE PUBLIC HEALTH AND WELFARE,,420_1998_056073,statute
+192,6,0,191,Sink,Sec. 5703 TITLE 5-GOVERNMENT ORGANIZATION AND EMPLOYEES,,050_1998_005144,statute
+192,0,0,191,Sink,§ 721.63 Protection in the workplace. Title 40,,cfr40v22_1998_003197,regulation
+191,3,2,188,Sink,§ 184.1 Substances added directly to human food affirmed as generally recognized as safe (GRAS). Title 21,,cfr21v3_1998_011378,regulation
+184,14,0,183,Sink,Sec. 4321 TITLE 42-THE PUBLIC HEALTH AND WELFARE,,420_1998_056175,statute
+177,3,1,175,Sink,Sec. 3501 TITLE 44-PUBLIC PRINTING AND DOCUMENTS,,440_1998_000969,statute
+177,6,2,174,Sink,Sec. 3109 TITLE 5-GOVERNMENT ORGANIZATION AND EMPLOYEES,,050_1998_001786,statute
+170,16,33,138,Hinge,Sec. 1101 TITLE 8-ALIENS AND NATIONALITY,,080_1998_000144,statute
+164,0,0,163,Sink,"§ 721.1725 Benzoic acid, 3,3 Title 40",,cfr40v22_1998_004550,regulation
+163,14,161,1,Source,"§ 2.21 Under Secretary for Research, Education, and Economics. Title 7",,cfr7v1_1998_002260,regulation
+163,7,0,162,Sink,Sec. 551 TITLE 5-GOVERNMENT ORGANIZATION AND EMPLOYEES,,050_1998_000115,statute
+163,7,4,158,Sink,Sec. 5514 TITLE 5-GOVERNMENT ORGANIZATION AND EMPLOYEES,,050_1998_004316,statute
+152,13,0,151,Sink,Sec. 5 TITLE 41-PUBLIC CONTRACTS,,410_1998_000004,statute
+140,9,0,139,Sink,Sec. 2000d TITLE 42-THE PUBLIC HEALTH AND WELFARE,,420_1998_045498,statute
+135,10,19,115,Hinge,Sec. 78c TITLE 15-COMMERCE AND TRADE,,150_1998_002097,statute
+135,7,1,133,Sink,Sec. 5332 TITLE 5-GOVERNMENT ORGANIZATION AND EMPLOYEES,,050_1998_003880,statute
+134,15,0,133,Sink,Sec. 1813 TITLE 12-BANKS AND BANKING,,120_1998_012061,statute
+133,5,0,132,Sink,Sec. 3105 TITLE 5-GOVERNMENT ORGANIZATION AND EMPLOYEES,,050_1998_001782,statute
+132,6,0,131,Sink,Sec. 1251 TITLE 33-NAVIGATION AND NAVIGABLE WATERS,,330_1998_003270,statute
+131,9,128,2,Source,§ 2.16 Under Secretary for Farm and Foreign Agricultural Services. Title 7,,cfr7v1_1998_001738,regulation
+130,2,3,126,Sink,§ 403.13 Variances from categorical pretreatment standards for fundamentally different factors. Title 40,,cfr40v20_1998_000584,regulation
+128,19,0,127,Sink,Sec. 1202 TITLE 19-CUSTOMS DUTIES,,190_1998_000575,statute
+127,15,9,119,Sink,Sec. 1 TITLE 26-INTERNAL REVENUE CODE,,260_1998_000006,statute
+123,16,5,119,Sink,Sec. 802 TITLE 21-FOOD AND DRUGS,,210_1998_004469,statute
+120,10,2,117,Sink,Sec. 1905 TITLE 18-CRIMES AND CRIMINAL PROCEDURE,,180_1998_003904,statute
+118,5,4,113,Sink,Sec. 3716 TITLE 31-MONEY AND FINANCE,,310_1998_002546,statute
+117,7,0,116,Sink,Sec. 7401 TITLE 42-THE PUBLIC HEALTH AND WELFARE,,420_1998_070641,statute
+117,5,1,115,Sink,Sec. 1601 TITLE 43-PUBLIC LANDS,,430_1998_003406,statute
+113,7,6,108,Sink,Sec. 3711 TITLE 31-MONEY AND FINANCE,,310_1998_002427,statute
+113,8,112,0,Source,§ 15b.42 Procedures. Title 7,,cfr7v1_1998_007077,regulation
+112,11,0,111,Sink,Sec. 1531 TITLE 16-CONSERVATION,,160_1998_021101,statute
+110,14,9,101,Sink,Sec. 1105 TITLE 31-MONEY AND FINANCE,,310_1998_000750,statute
+105,11,14,90,Hinge,Sec. 1818 TITLE 12-BANKS AND BANKING,,120_1998_012727,statute
+105,34,22,103,Hinge,§ 172.101 Purpose and use of hazardous materials table. Title 49,,cfr49v2_1998_001691,regulation
+105,5,2,102,Sink,Sec. 2112 TITLE 28-JUDICIARY AND JUDICIAL PROCEDURE,,280_1998_003673,statute
+105,0,0,104,Sink,§ 401.16 Conventional pollutants. Title 40,,cfr40v20_1998_000137,regulation
+104,3,4,99,Sink,Sec. 78o TITLE 15-COMMERCE AND TRADE,,150_1998_002827,statute
+104,3,103,0,Source,"§ 2.79 Administrator, Agricultural Marketing Service. Title 7",,cfr7v1_1998_004087,regulation
+103,4,0,102,Sink,Sec. 557 TITLE 5-GOVERNMENT ORGANIZATION AND EMPLOYEES,,050_1998_000561,statute
+102,5,0,101,Sink,"Sec. 276a TITLE 40-PUBLIC BUILDINGS, PROPERTY, AND WORKS",,400_1998_001085,statute
+101,9,98,2,Source,§ 15.12 Effect on other regulations; forms and instructions. Title 7,,cfr7v1_1998_006321,regulation
+101,7,99,1,Source,§ 2.20 Under Secretary for Natural Resources and Environment. Title 7,,cfr7v1_1998_002098,regulation
+101,6,2,98,Sink,Sec. 78w TITLE 15-COMMERCE AND TRADE,,150_1998_003867,statute
+95,0,4,90,Sink,Sec. 791 TITLE 29-LABOR,,290_1998_004026,statute
+94,0,0,93,Sink,"Sec. 471 TITLE 40-PUBLIC BUILDINGS, PROPERTY, AND WORKS",,400_1998_001400,statute
+93,0,1,91,Sink,Sec. 552b TITLE 5-GOVERNMENT ORGANIZATION AND EMPLOYEES,,050_1998_000457,statute
+91,1,9,82,Hinge,Sec. 207 TITLE 18-CRIMES AND CRIMINAL PROCEDURE,,180_1998_000396,statute
+89,0,88,0,Source,"§ 2.66 Administrator, Cooperative State Research, Education, and Extension Service. Title 7",,cfr7v1_1998_003886,regulation
+88,0,21,66,Hinge,Sec. 9601 TITLE 42-THE PUBLIC HEALTH AND WELFARE,,420_1998_079253,statute
+88,0,0,87,Sink,Sec. 556 TITLE 5-GOVERNMENT ORGANIZATION AND EMPLOYEES,,050_1998_000541,statute
+87,0,0,86,Sink,§ 1.40-1 Questions and answers relating to the meaning of the term “qualified mixture” in section 40(b)(1). Title 26,,cfr26v1_1998_001346,regulation
+86,4,14,75,Hinge,Sec. 1437f TITLE 42-THE PUBLIC HEALTH AND WELFARE,,420_1998_038675,statute
+85,0,0,84,Sink,Sec. 3717 TITLE 31-MONEY AND FINANCE,,310_1998_002595,statute
+83,0,7,75,Sink,Sec. 78l TITLE 15-COMMERCE AND TRADE,,150_1998_002542,statute
+83,0,0,82,Sink,Sec. 1254 TITLE 28-JUDICIARY AND JUDICIAL PROCEDURE,,280_1998_002578,statute
+82,4,35,51,Hinge,Sec. 6103 TITLE 26-INTERNAL REVENUE CODE,,260_1998_050944,statute
+82,0,0,81,Sink,Sec. 78a TITLE 15-COMMERCE AND TRADE,,150_1998_002090,statute
+82,0,1,80,Sink,Sec. 3324 TITLE 31-MONEY AND FINANCE,,310_1998_001821,statute
+81,0,80,0,Source,"§ 2.80 Administrator, Animal and Plant Health Inspection Service. Title 7",,cfr7v1_1998_004184,regulation
+80,0,0,79,Sink,Sec. 4157 TITLE 42-THE PUBLIC HEALTH AND WELFARE,,420_1998_056088,statute
+80,0,79,0,Source,"§ 2.65 Administrator, Agricultural Research Service. Title 7",,cfr7v1_1998_003755,regulation
+79,0,1,77,Sink,Sec. 504 TITLE 5-GOVERNMENT ORGANIZATION AND EMPLOYEES,,050_1998_000096,statute
+79,0,0,78,Sink,Sec. 2011 TITLE 42-THE PUBLIC HEALTH AND WELFARE,,420_1998_045911,statute
+77,3,5,75,Sink,Sec. 401 TITLE 26-INTERNAL REVENUE CODE,,260_1998_014945,statute
+77,0,75,1,Source,"§ 2.60 Chief, Forest Service. Title 7",,cfr7v1_1998_003565,regulation
+77,0,0,76,Sink,Sec. 7805 TITLE 26-INTERNAL REVENUE CODE,,260_1998_060358,statute
+76,0,0,75,Sink,Sec. 5201 TITLE 26-INTERNAL REVENUE CODE,,260_1998_047749,statute
+76,0,3,72,Sink,§ 601.601 Rules and regulations. Title 26,,cfr26v19_1998_001042,regulation
+75,0,74,0,Source,§ 200.800 OMB control numbers assigned pursuant to the Paperwork Reduction Act. Title 17,,cfr17v2_1998_001726,regulation
+75,0,0,74,Sink,Sec. 601 TITLE 7-AGRICULTURE,,070_1998_004252,statute
+75,2,3,74,Sink,Sec. 3507 TITLE 44-PUBLIC PRINTING AND DOCUMENTS,,440_1998_001200,statute
+75,0,74,0,Source,§ 27.3 Penalty Adjustment Table. Title 33,,cfr33v1_1998_001691,regulation
+74,0,0,73,Sink,Sec. 41 TITLE 15-COMMERCE AND TRADE,,150_1998_000346,statute
+72,0,1,70,Sink,Sec. 1681 TITLE 20-EDUCATION,,200_1998_013308,statute
+72,0,0,71,Sink,Sec. 470 TITLE 16-CONSERVATION,,160_1998_010087,statute
+72,0,71,0,Source,"§ 2.43 Administrator, Foreign Agricultural Service. Title 7",,cfr7v1_1998_003281,regulation
+71,1,2,69,Sink,Sec. 78m TITLE 15-COMMERCE AND TRADE,,150_1998_002645,statute
+71,0,10,60,Hinge,Sec. 1331 TITLE 43-PUBLIC LANDS,,430_1998_002276,statute
+71,0,0,70,Sink,Sec. 450 TITLE 25-INDIANS,,250_1998_000703,statute
+70,0,0,69,Sink,Sec. 6901 TITLE 42-THE PUBLIC HEALTH AND WELFARE,,420_1998_067383,statute
+70,0,69,0,Source,§ 25.5 OMB control numbers assigned under the Paperwork Reduction Act. Title 27,,cfr27v1_1998_013130,regulation
+70,0,0,69,Sink,Sec. 4601 TITLE 42-THE PUBLIC HEALTH AND WELFARE,,420_1998_056615,statute
+68,0,0,67,Sink,Sec. 301 TITLE 42-THE PUBLIC HEALTH AND WELFARE,,420_1998_017501,statute

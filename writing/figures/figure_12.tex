@@ -1,0 +1,39 @@
+\documentclass[varwidth, border=0pt]{standalone}
+
+\usepackage{times}      % Loads the Times-Roman Fonts
+\usepackage{mathptmx}   % Loads the Times-Roman Math Fonts
+\usepackage{subcaption}
+\usepackage[labelfont={bf,sf},%
+labelsep=period,%
+justification=centering,
+labelformat=parens,labelsep=quad,skip=3pt,font=scriptsize]{caption}
+\usepackage{graphicx}
+\usepackage[encoding,filenameencoding=utf8]{grffile}
+
+\begin{document}
+	
+	\begin{figure}
+	\centering
+\begin{subfigure}{\linewidth}
+	\centering
+	\subcaption*{12 USC Ch. 16 (Gramm-Leach-Bliley Act)}
+	\vspace*{-3pt}\includegraphics[width=0.875\linewidth]{../../graphics/evolution/us-glb.pdf}%
+	\subcaption*{12 USC Ch. 53 (Dodd-Frank Act)}
+	\vspace*{-3pt}\includegraphics[width=0.875\linewidth]{../../graphics/evolution/us-dodd-frank.pdf}%
+	\subcaption*{17 CFR Ch. I (Commodity Futures Trading Commission)}
+	\vspace*{-3pt}\includegraphics[width=0.875\linewidth]{../../graphics/evolution/us-17cfrI.pdf}%
+	\vspace*{-3pt}\subcaption{United States}
+\end{subfigure} %\vspace*{6pt}
+\begin{subfigure}{\linewidth}
+	\centering
+	\subcaption*{Stock Exchange Act (Börsengesetz)}
+	\vspace*{-3pt}\includegraphics[width=0.875\linewidth]{{../../graphics/evolution/de-börsg.pdf}}%
+	\subcaption*{Securities Trading Act (Wertpapierhandelsgesetz)}
+	\vspace*{-3pt}\includegraphics[width=0.875\linewidth]{../../graphics/evolution/de-wphg.pdf}%
+	\subcaption*{Regulation Concerning Reports and the Submission of Documentation under the Banking Act (Anzeigenverordnung)}
+	\vspace*{-3pt}\includegraphics[width=0.875\linewidth]{{../../graphics/evolution/de-anzv.pdf}}
+	\vspace*{-3pt}\subcaption{Germany}
+\end{subfigure}
+	\end{figure}
+	
+\end{document}

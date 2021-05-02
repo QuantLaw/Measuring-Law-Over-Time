@@ -1,0 +1,12 @@
+docutils>=0.10,<0.16
+git+https://github.com/QuantLaw/legal-data-clustering.git
+jupyterlab
+matplotlib<3.3
+nb-clean
+nbconvert
+networkx==2.4
+openpyxl
+powerlaw
+quantlaw
+seaborn
+tabulate

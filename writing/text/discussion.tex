@@ -1,0 +1,64 @@
+% !TeX spellcheck = en_US
+% !TeX root = ../main.tex
+\section{Discussion}
+\label{sec:discussion}
+
+We have introduced an analytical framework for the dynamic network analysis of legal documents and demonstrated its utility by applying it to a dataset comprising federal statutes and regulations in the United States and Germany over a period of more than $20$ years.
+The limitations of this work concern two separate areas: 
+the methods introduced in Section~\ref{sec:methods} and the results presented in Section~\ref{sec:results}.
+
+To gravitate toward its ideal formulation, our framework requires further refinement based on experiences from applications to diverse datasets.
+Our model is deliberately document type and country agnostic, such that it can be easily instantiated for new data. 
+Similar studies using legal documents from a variety of jurisdictions would be of immense value for improving our framework, 
+and they could provide further context for the results reported in Section~\ref{sec:results}.
+Furthermore, our network analytical framework could be complemented by a framework for natural legal language processing, 
+as the combination of relational information and linguistic information will likely lead to insights that would not be possible using either of these sources alone.
+
+When preparing this article, we found that combining documents of different types in one graph representation raises many conceptual questions.
+Some of these questions relate to the presentation of our results, e.g., 
+whether to depict dynamics in absolute or relative terms (thereby either impairing comparisons across document types of different sizes or visually overstating dynamics for small baselines).
+Others concern design decisions when defining our methods, 
+e.g., whether tokens from documents of different types should have the same weight when determining cluster families even if there is a striking imbalance between the total number of tokens in documents of these types (as is the case in our United States data).
+Here, one alternative would be to rescale the token counts before constructing the cluster family graph, 
+such that the total influence of tokens from one specific document type is equal across all types.
+While this would change the results to a certain extent, 
+it is difficult to assess whether the modified method would be superior because comparable investigations of multimodal legal document networks currently do not exist.
+
+The results stated in Section~\ref{sec:results} are limited in geographic scope (United States and Germany), temporal scope ($1998$--$2019$), and institutional scope (legislative and executive branch on the federal level).
+Most importantly, our findings cover only codified law.
+As the United States and Germany are typically assumed to follow distinct legal traditions (common law and civil law), 
+which are often thought to differ, inter alia, in their reliance on court precedent, including court decisions might have disparate impact on our results for both countries.
+However, it could also provide empirical evidence against the traditional classification.
+Irrespective of legal traditions, unlocking and integrating judicial data is an important direction for future work.
+
+Regarding both growth and connectivity, the next steps consist in eliminating the uncertainties and limitations affecting our data.
+For example, as highlighted in Section~\ref{subsec:data:instance}, one important stride toward a more comprehensive picture of the connectivity between legal documents is the extraction and resolution of non-atomic references.
+At the macro level, connectivity could also be evaluated at other resolutions (e.g., the chapter level) or when including hierarchy edges, 
+and our analysis could be expanded using further statistics, such as motif counts and their evolution over time.
+Furthermore, applying our methods to other document types or other countries would help us assess whether the rocket structure we found in our data is characteristic of legal systems in general.
+When assessing connectivity at the meso level, the dynamic map of law provided by our cluster families could be further refined, especially at other resolution levels.
+At the micro level of connectivity, a more fine-grained star taxonomy might be in order because in both countries, there exists some functional overlap between hinge stars and sink stars.
+For the profiles, a sensible step forward would be to apply the tracing methodology at other levels of resolution (e.g., at the level of individual sections), and the statistics we track could be complemented by similarity measures allowing us to compare between the different units of law we analyze.
+
+Beyond the specific opportunities for further research outlined above, 
+our work raises three larger questions to be explored in the future:
+\begin{enumerate}
+	\item \emph{When quantitatively analyzing legal documents, how should we choose the unit of analysis?}\\
+	On the one hand, no clear consensus exists as to what constitutes a \emph{unit of law} or a \emph{legal rule}. 
+	But on the other hand, the choice has far-reaching consequences for all analyses.
+	Furthermore, even analyzing all documents at the same structural level presents problems: 
+	Legal rules come in various sizes, and at times, a single paragraph might be longer than the average document due to drafting decisions by the agents in the legal system.
+	This complicates comparisons and creates countless opportunities for erroneous interpretations.
+	Detailing the full rationale behind all choices we made when presenting our results in Section~\ref{sec:results} is beyond the scope of this article. 
+	However, an extensive exposition of the possible choices and the tradeoffs surrounding them would benefit the research community at large and, therefore, constitutes a fecund field for future findings.
+	\item \emph{How can we measure the \emph{regulatory energy} of statutes?}\\
+	The analysis of individual statutes such as the Gramm-Leach-Bliley Act and the Dodd-Frank Act suggests that legislative outputs impact their environments at potentially different rates (e.g., by prompting further rule making), 
+	i.e., that they have a certain \emph{regulatory energy} that they emit over time. 
+	This hypothesis could be validated, inter alia, using external data on regulatory relevance, e.g., the filings concerning regulatory risk that are required for annual and transition reports pursuant to sections 13 or 15(d) of the Securities Exchange Act of $1934$ under 17~CFR~249.310 -- Form 10-K \cite{bommarito2017}. 
+	However, other approaches are equally possible and merit further investigation.
+	\item \emph{How can we connect our empirical findings to established theories in law and political science?}\\
+	Although beyond the scope of this work, some of our findings can be combined with analyses using established theories on the composition and evolution of codified law in both legal scholarship and political science.
+	The most prominent example here is the question of delegation: 
+	How does it happen and what are its limits, in theory and in practice?
+	This touches the heart of democratic legitimacy, and it presents a promising opportunity for empirical legal studies to contribute to mainstream legal and political science discourse that we are planning to seize in the future.
+\end{enumerate}

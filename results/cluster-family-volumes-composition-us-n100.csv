@@ -1,0 +1,11 @@
+label,mean,std,min,25%,50%,75%,max,category,majority
+Environmental and Health Protection,0.05,0.02,0.03,0.04,0.05,0.06,0.1,R,R
+Healthcare and Tax,0.0,0.0,0.0,0.0,0.0,0.0,0.01,R,R
+Agriculture and Food,0.31,0.03,0.27,0.29,0.29,0.31,0.39,M,R
+Federal Grants and Commercial Activity,0.12,0.02,0.08,0.11,0.12,0.13,0.15,R,R
+Maritime Affairs and Transport,0.06,0.01,0.05,0.06,0.06,0.07,0.09,R,R
+Financial Regulation,0.22,0.06,0.14,0.19,0.2,0.22,0.4,M,R
+Public Procurement and Funding,0.14,0.02,0.1,0.13,0.14,0.15,0.18,R,R
+Energy,0.29,0.07,0.21,0.26,0.27,0.28,0.58,M,R
+Telecommunications,0.15,0.08,0.11,0.11,0.12,0.12,0.36,R,R
+Housing,0.34,0.13,0.26,0.28,0.29,0.34,0.79,M,R

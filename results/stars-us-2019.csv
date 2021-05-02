@@ -1,0 +1,101 @@
+n,m_s,out_degree,in_degree,type,hub,description,key,document_type
+2721,933,2,2719,Sink,Sec. 552 TITLE 5-GOVERNMENT ORGANIZATION AND EMPLOYEES,,050_2019_000234,statute
+1702,26,1,1700,Sink,§ 721.125 Recordkeeping requirements. Title 40,,cfr40v33_2019_005930,regulation
+1684,28,3,1680,Sink,§ 721.185 Limitation or revocation of certain notification requirements. Title 40,,cfr40v33_2019_006037,regulation
+1173,298,3,1171,Sink,Sec. 552a TITLE 5-GOVERNMENT ORGANIZATION AND EMPLOYEES,,050_2019_000466,statute
+1023,13,0,1022,Sink,"§ 721.80 Industrial, commercial, and consumer activities. Title 40",,cfr40v33_2019_005818,regulation
+915,18,0,914,Sink,§ 721.90 Release to water. Title 40,,cfr40v33_2019_005874,regulation
+793,223,2,790,Sink,§ 125.30 Purpose and scope. Title 40,,cfr40v24_2019_005302,regulation
+788,222,3,784,Sink,§ 125.32 Method of application. Title 40,,cfr40v24_2019_005339,regulation
+642,44,0,641,Sink,"§ 510.600 Names, addresses, and drug labeler codes of sponsors of approved applications. Title 21",,cfr21v6_2019_001331,regulation
+467,14,4,462,Sink,§ 721.63 Protection in the workplace. Title 40,,cfr40v33_2019_005635,regulation
+465,188,26,450,Sink,Sec. 501 TITLE 26-INTERNAL REVENUE CODE,,260_2019_030186,statute
+453,3,0,452,Sink,"§ 721.1725 Benzoic acid, 3,3′-methyl­enebis [6 amino-, di-2-propenyl ester. Title 40",,cfr40v33_2019_007354,regulation
+426,80,2,423,Sink,Sec. 1001 TITLE 18-CRIMES AND CRIMINAL PROCEDURE,,180_2019_003333,statute
+403,8,1,401,Sink,§ 721.72 Hazard communication program. Title 40,,cfr40v33_2019_005676,regulation
+362,124,2,361,Sink,§ 63.7 Performance testing requirements. Title 40,,cfr40v11_2019_000453,regulation
+359,92,1,357,Sink,§ 63.10 Recordkeeping and reporting requirements. Title 40,,cfr40v11_2019_000709,regulation
+339,63,0,338,Sink,Sec. 4321 TITLE 42-THE PUBLIC HEALTH AND WELFARE,,420_2019_101001,statute
+338,133,2,337,Sink,§ 63.8 Monitoring requirements. Title 40,,cfr40v11_2019_000555,regulation
+332,6,5,326,Sink,§ 601.601 Rules and regulations. Title 26,,cfr26v22_2019_001046,regulation
+330,88,1,328,Sink,Sec. 1813 TITLE 12-BANKS AND BANKING,,120_2019_013297,statute
+326,73,6,319,Sink,Sec. 5514 TITLE 5-GOVERNMENT ORGANIZATION AND EMPLOYEES,,050_2019_005304,statute
+324,59,0,323,Sink,Sec. 553 TITLE 5-GOVERNMENT ORGANIZATION AND EMPLOYEES,,050_2019_000714,statute
+319,92,16,305,Sink,Sec. 78c TITLE 15-COMMERCE AND TRADE,,150_2019_002772,statute
+313,43,4,311,Sink,§ 403.7 Removal credits. Title 40,,cfr40v31_2019_000367,regulation
+310,13,1,308,Sink,Sec. 3501 TITLE 44-PUBLIC PRINTING AND DOCUMENTS,,440_2019_001049,statute
+306,62,0,305,Sink,Sec. 554 TITLE 5-GOVERNMENT ORGANIZATION AND EMPLOYEES,,050_2019_000730,statute
+297,34,3,293,Sink,Sec. 794 TITLE 29-LABOR,,290_2019_004437,statute
+283,74,31,254,Hinge,Sec. 1101 TITLE 8-ALIENS AND NATIONALITY,,080_2019_000144,statute
+269,44,4,264,Sink,Sec. 3716 TITLE 31-MONEY AND FINANCE,,310_2019_003360,statute
+262,77,4,259,Sink,§ 63.6 Compliance with standards and maintenance requirements. Title 40,,cfr40v11_2019_000305,regulation
+254,131,0,253,Sink,Sec. 4151 TITLE 42-THE PUBLIC HEALTH AND WELFARE,,420_2019_100901,statute
+246,129,0,245,Sink,§ 60.8 Performance tests. Title 40,,cfr40v7_2019_001635,regulation
+239,39,10,229,Sink,Sec. 1105 TITLE 31-MONEY AND FINANCE,,310_2019_001165,statute
+236,131,0,235,Sink,Sec. 4157 TITLE 42-THE PUBLIC HEALTH AND WELFARE,,420_2019_100916,statute
+233,81,2,230,Sink,§ 63.2 Definitions. Title 40,,cfr40v11_2019_000034,regulation
+222,43,0,221,Sink,Sec. 7401 TITLE 42-THE PUBLIC HEALTH AND WELFARE,,420_2019_118562,statute
+220,10,4,216,Sink,§ 170.3 Definitions. Title 21,,cfr21v3_2019_000003,regulation
+218,150,114,213,Hinge,§ 171.7 Reference material. Title 49,,cfr49v2_2019_001446,regulation
+217,18,5,213,Sink,Sec. 3711 TITLE 31-MONEY AND FINANCE,,310_2019_003240,statute
+215,23,213,1,Source,§ 2.22 Under Secretary for Marketing and Regulatory Programs. Title 7,,cfr7v1_2019_003721,regulation
+211,13,0,210,Sink,Sec. 551 TITLE 5-GOVERNMENT ORGANIZATION AND EMPLOYEES,,050_2019_000200,statute
+208,74,0,207,Sink,§ 70.25 Labeling requirements for color additives (other than hair dyes). Title 21,,cfr21v1_2019_007719,regulation
+207,16,2,204,Sink,Sec. 3109 TITLE 5-GOVERNMENT ORGANIZATION AND EMPLOYEES,,050_2019_002209,statute
+205,48,7,197,Sink,Sec. 78o TITLE 15-COMMERCE AND TRADE,,150_2019_005056,statute
+202,56,14,193,Sink,Sec. 1 TITLE 26-INTERNAL REVENUE CODE,,260_2019_000006,statute
+201,18,1,199,Sink,Sec. 1001 TITLE 20-EDUCATION,,200_2019_002365,statute
+196,4,2,193,Sink,§ 184.1 Substances added directly to human food affirmed as generally recognized as safe (GRAS). Title 21,,cfr21v3_2019_011916,regulation
+192,10,0,191,Sink,Sec. 5703 TITLE 5-GOVERNMENT ORGANIZATION AND EMPLOYEES,,050_2019_006285,statute
+191,13,0,190,Sink,Sec. 3717 TITLE 31-MONEY AND FINANCE,,310_2019_003410,statute
+189,7,0,188,Sink,Sec. 3105 TITLE 5-GOVERNMENT ORGANIZATION AND EMPLOYEES,,050_2019_002205,statute
+177,13,174,2,Source,"§ 2.21 Under Secretary for Research, Education, and Economics. Title 7",,cfr7v1_2019_003435,regulation
+175,16,0,174,Sink,Sec. 1531 TITLE 16-CONSERVATION,,160_2019_030042,statute
+166,10,0,165,Sink,Sec. 2000d TITLE 42-THE PUBLIC HEALTH AND WELFARE,,420_2019_089202,statute
+166,2,3,162,Sink,§ 820.180 General requirements. Title 21,,cfr21v8_2019_002889,regulation
+165,21,13,154,Sink,Sec. 802 TITLE 21-FOOD AND DRUGS,,210_2019_014249,statute
+165,10,0,164,Sink,Sec. 1601 TITLE 43-PUBLIC LANDS,,430_2019_004445,statute
+165,3,1,165,Sink,§ 820.198 Complaint files. Title 21,,cfr21v8_2019_002910,regulation
+162,14,1,160,Sink,Sec. 6101 TITLE 41-PUBLIC CONTRACTS,,410_2019_002421,statute
+160,9,0,159,Sink,Sec. 1251 TITLE 33-NAVIGATION AND NAVIGABLE WATERS,,330_2019_004072,statute
+157,10,11,146,Sink,Sec. 1818 TITLE 12-BANKS AND BANKING,,120_2019_013967,statute
+157,6,0,156,Sink,Sec. 105 TITLE 5-GOVERNMENT ORGANIZATION AND EMPLOYEES,,050_2019_000034,statute
+151,9,2,148,Sink,Sec. 5304 TITLE 25-INDIANS,,250_2019_013931,statute
+150,36,149,0,Source,§ 178.2 Listing of OMB control numbers. Title 19,,cfr19v2_2019_005079,regulation
+147,8,0,146,Sink,Sec. 78a TITLE 15-COMMERCE AND TRADE,,150_2019_002765,statute
+144,9,9,135,Sink,Sec. 7801 TITLE 20-EDUCATION,,200_2019_033569,statute
+142,22,4,137,Sink,Sec. 1396 TITLE 42-THE PUBLIC HEALTH AND WELFARE,,420_2019_068913,statute
+142,6,1,140,Sink,Sec. 5332 TITLE 5-GOVERNMENT ORGANIZATION AND EMPLOYEES,,050_2019_004764,statute
+141,34,34,127,Hinge,§ 172.101 Purpose and use of hazardous materials table. Title 49,,cfr49v2_2019_002422,regulation
+141,4,3,137,Sink,§ 403.13 Variances from categorical pretreatment standards for fundamentally different factors. Title 40,,cfr40v31_2019_000703,regulation
+140,14,2,137,Sink,Sec. 1905 TITLE 18-CRIMES AND CRIMINAL PROCEDURE,,180_2019_005348,statute
+139,5,7,133,Sink,§ 52.21 Prevention of significant deterioration of air quality. Title 40,,cfr40v3_2019_000085,regulation
+139,8,0,138,Sink,Sec. 557 TITLE 5-GOVERNMENT ORGANIZATION AND EMPLOYEES,,050_2019_000778,statute
+139,3,7,131,Sink,§ 63.90 Program overview. Title 40,,cfr40v11_2019_001674,regulation
+138,18,20,117,Hinge,Sec. 101 TITLE 10-ARMED FORCES,,100_2019_000005,statute
+138,18,0,137,Sink,Sec. 1202 TITLE 19-CUSTOMS DUTIES,,190_2019_000602,statute
+137,12,6,130,Sink,Sec. 1841 TITLE 12-BANKS AND BANKING,,120_2019_018990,statute
+137,3,0,136,Sink,Sec. 1 TITLE 16-CONSERVATION,,160_2019_000004,statute
+133,16,128,4,Source,§ 2.16 Under Secretary for Farm Production and Conservation. Title 7,,cfr7v1_2019_002811,regulation
+129,8,128,0,Source,"§ 2.79 Administrator, Agricultural Marketing Service. Title 7",,cfr7v1_2019_005748,regulation
+129,4,1,127,Sink,Sec. 552b TITLE 5-GOVERNMENT ORGANIZATION AND EMPLOYEES,,050_2019_000674,statute
+129,0,1,127,Sink,"§ 862.9 Limitations of exemptions from section 510(k) of the Federal Food, Drug, and Cosmetic Act (the act). Title 21",,cfr21v8_2019_003656,regulation
+128,0,0,127,Sink,§ 1.40-1 Questions and answers relating to the meaning of the term “qualified mixture” in section 40(b)(1). Title 26,,cfr26v1_2019_002476,regulation
+127,8,24,103,Hinge,Sec. 637 TITLE 15-COMMERCE AND TRADE,,150_2019_013764,statute
+126,21,24,108,Hinge,Sec. 1437f TITLE 42-THE PUBLIC HEALTH AND WELFARE,,420_2019_078859,statute
+125,3,2,122,Sink,Sec. 791 TITLE 29-LABOR,,290_2019_004337,statute
+125,19,15,111,Hinge,Sec. 78m TITLE 15-COMMERCE AND TRADE,,150_2019_004496,statute
+124,3,3,123,Sink,Sec. 3507 TITLE 44-PUBLIC PRINTING AND DOCUMENTS,,440_2019_001354,statute
+123,6,10,112,Sink,Sec. 207 TITLE 18-CRIMES AND CRIMINAL PROCEDURE,,180_2019_000638,statute
+123,11,0,122,Sink,Sec. 1746 TITLE 28-JUDICIARY AND JUDICIAL PROCEDURE,,280_2019_003968,statute
+118,21,25,99,Hinge,§ 171.8 Definitions and abbreviations. Title 49,,cfr49v2_2019_001754,regulation
+118,6,0,117,Sink,Sec. 301 TITLE 21-FOOD AND DRUGS,,210_2019_000215,statute
+118,7,0,117,Sink,Sec. 2011 TITLE 42-THE PUBLIC HEALTH AND WELFARE,,420_2019_090329,statute
+118,0,0,117,Sink,§ 49.139 Rule for non-Title V operating permits. Title 40,,cfr40v1_2019_004874,regulation
+117,21,0,116,Sink,Sec. 1681 TITLE 20-EDUCATION,,200_2019_020995,statute
+116,1,2,113,Sink,Sec. 504 TITLE 5-GOVERNMENT ORGANIZATION AND EMPLOYEES,,050_2019_000169,statute
+115,14,30,85,Hinge,Sec. 9601 TITLE 42-THE PUBLIC HEALTH AND WELFARE,,420_2019_128375,statute
+114,3,0,113,Sink,Sec. 77a TITLE 15-COMMERCE AND TRADE,,150_2019_001487,statute
+114,10,0,113,Sink,§ 63.9 Notification requirements. Title 40,,cfr40v11_2019_000651,regulation
+114,13,2,111,Sink,Sec. 2105 TITLE 5-GOVERNMENT ORGANIZATION AND EMPLOYEES,,050_2019_001893,statute
+114,5,0,113,Sink,Sec. 556 TITLE 5-GOVERNMENT ORGANIZATION AND EMPLOYEES,,050_2019_000758,statute

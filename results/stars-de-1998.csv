@@ -1,0 +1,101 @@
+n,m_s,out_degree,in_degree,type,hub,description,key,document_type
+213,1,3,209,Sink,§ 25 Berufsbildungsgesetz,,BJNR011120969_BBiG_20010101_000089,statute
+182,4,0,181,Sink,§ 36 Gesetz über Ordnungswidrigkeiten,,BJNR004810968_OWiG-1968_19981231_000130,statute
+146,0,6,139,Sink,§ 112 Berufsbildungsgesetz,,BJNR011120969_BBiG_20010101_000286,statute
+144,18,143,0,Source,Übersicht Gesetz über die Kosten in Angelegenheiten der freiwilligen Gerichtsbarkeit,,BJNR009600957_KostO_19981231_000002,statute
+132,0,0,131,Sink,§ 1 Berufsbildungsgesetz,,BJNR011120969_BBiG_20010101_000004,statute
+128,4,0,127,Sink,§ 383 Zivilprozessordnung,,BJNR005330950_ZPO_19981231_001021,statute
+127,1,4,122,Sink,§ 25 Gesetz zur Ordnung des Handwerks,,BJNR014110953_HwO_19981231_000103,statute
+119,18,118,0,Source,Übersicht Bundesgebührenordnung für Rechtsanwälte,,BJNR009070957_BRAGebO_19981231_000002,statute
+110,0,0,109,Sink,Art 56 Gesetz zur Anpassung gesetzlich festgelegter Zuständigkeiten an die Neuabgrenzung der Geschäftsbereiche von Bundesministern,,BJNR007050975_ZustAnpG_20020820_000011,statute
+108,1,0,107,Sink,Art 13 Grundgesetz für die Bundesrepublik Deutschland,,BJNR000010949_GG_20001201_000061,statute
+107,15,0,106,Sink,Art 116 Grundgesetz für die Bundesrepublik Deutschland,,BJNR000010949_GG_20001201_000532,statute
+106,0,0,105,Sink,§ 45 Gesetz zur Ordnung des Handwerks,,BJNR014110953_HwO_19981231_000210,statute
+91,0,6,84,Sink,§ 122 Gesetz zur Ordnung des Handwerks,,BJNR014110953_HwO_19981231_000456,statute
+84,0,83,0,Source,§ 69a Straßenverkehrs-Zulassungs-Ordnung,,BJNR012150937_StVZO_19981231_000784,regulation
+60,0,6,53,Hinge,§ 46 Berufsbildungsgesetz,,BJNR011120969_BBiG_20010101_000153,statute
+59,1,5,54,Sink,§ 6 Straßenverkehrsgesetz,,BJNR004370909_StVG_19981231_000045,statute
+58,1,58,1,Source,§ 72 Straßenverkehrs-Zulassungs-Ordnung,,BJNR012150937_StVZO_19981231_000798,regulation
+56,1,3,53,Sink,§ 1 Gesetz über das Kreditwesen,,BJNR008810961_KredWG_19981231_000004,statute
+56,0,22,33,Hinge,§ 76 Tierseuchengesetz,,BJNR005190909_ViehSeuchG_20010221_000187,statute
+54,0,45,8,Hinge,§ 100a Strafprozeßordnung,,BJNR006290950_StPO_19981231_000323,statute
+50,0,3,46,Sink,§ 27 Gesetz zur Angleichung des Sozialversicherungsrechts im Saarland an das im übrigen Bundesgebiet geltende Recht,,BJNR004020963_SVSaarAnglG_20050930_000044,statute
+50,0,49,0,Source,Übersicht Strafprozeßordnung,,BJNR006290950_StPO_19981231_000002,statute
+50,0,0,49,Sink,Art 2 Grundgesetz für die Bundesrepublik Deutschland,,BJNR000010949_GG_20001201_000009,statute
+49,1,44,6,Hinge,§ 52 Einkommensteuergesetz,,BJNR010050934_EStG_19981231_000688,statute
+49,0,46,2,Source,§ 14 Rechtspflegergesetz,,BJNR020650969_RPflG-1969_19981231_000039,statute
+48,0,0,47,Sink,"§ 18 Sozialgesetzbuch (SGB) Viertes Buch (IV) - Gemeinsame Vorschriften für die Sozialversicherung - (Artikel I des Gesetzes vom 23. Dezember 1976, BGBl. I S. 3845)",,BJNR138450976_SGB-4_19981231_000078,statute
+48,0,0,47,Sink,Art 131 Grundgesetz für die Bundesrepublik Deutschland,,BJNR000010949_GG_20001201_000571,statute
+48,0,0,47,Sink,§ 29 Berufsbildungsgesetz,,BJNR011120969_BBiG_20010101_000105,statute
+47,1,39,9,Hinge,§ 3 Einkommensteuergesetz,,BJNR010050934_EStG_19981231_000027,statute
+46,0,45,0,Source,§ 87 Verordnung über den Schutz vor Schäden durch ionisierende Strahlen,,BJNR029050976_StrlSchV_20010731_000349,regulation
+44,0,13,30,Hinge,Art 233 Drittes Buch. Sachenrecht Einführungsgesetz zum Bürgerlichen Gesetzbuche,,BJNR006049896_BGBEG_19981231_000425,statute
+44,0,0,43,Sink,§ 19 Berufsbildungsförderungsgesetz,,BJNR016920981_BerBiFG_20010630_000082,statute
+42,0,41,0,Source,"XXXX Gesetz zur Bereinigung von deutschen Schuldverschreibungen, die auf ausländische Währung lauten",,BJNR005530952_AuslWBG_20011106_000002,statute
+42,0,0,41,Sink,§ 11 Strafgesetzbuch,,BJNR001270871_StGB_19981231_000026,statute
+42,0,0,41,Sink,§ 74a Strafgesetzbuch,,BJNR001270871_StGB_19981231_000377,statute
+41,0,6,34,Hinge,"§ 5 Sozialgesetzbuch (SGB) Fünftes Buch (V) - Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes v. 20. Dezember 1988, BGBl. I S. 2477)",,BJNR024820988_SGB-5_19981231_000017,statute
+41,0,39,1,Source,Art 97 Übergangsvorschriften Einführungsgesetz zur Abgabenordnung,,BJNR033419976_AOEG-1977_19981231_000007,statute
+41,0,0,40,Sink,§ 23 Gesetz über Ordnungswidrigkeiten,,BJNR004810968_OWiG-1968_19981231_000068,statute
+41,0,0,40,Sink,§ 4 Gesetz zum Schutz gegen Fluglärm,,BJNR002820971_FluLärmG_20011106_000009,statute
+41,0,0,40,Sink,§ 27a Gesetz zur Ordnung des Handwerks,,BJNR014110953_HwO_19981231_000118,statute
+40,0,3,36,Sink,§ 7 Gesetz über die friedliche Verwendung der Kernenergie und den Schutz gegen ihre Gefahren,,BJNR008140959_AtG_20000510_000044,statute
+40,1,7,33,Hinge,§ 4 Einkommensteuergesetz,,BJNR010050934_EStG_19981231_000034,statute
+40,1,26,14,Hinge,§ 97 Gesetz über den Verkehr mit Arzneimitteln,,BJNR024480976_AMG-1976_19990331_000502,statute
+40,1,24,16,Hinge,§ 120 Gerichtsverfassungsgesetz,,BJNR005130950_GVG_19981231_000294,statute
+40,0,24,15,Hinge,§ 53 Gesetz über die Beaufsichtigung der Versicherungsunternehmen,,BJNR001390901_VAG_19981231_000217,statute
+40,0,0,39,Sink,Art 129 Grundgesetz für die Bundesrepublik Deutschland,,BJNR000010949_GG_20001201_000562,statute
+39,0,25,13,Hinge,§ 40 Gesetz zum Schutz der Kulturpflanzen,,BJNR015050986_PflSchG-1986_20011106_000232,statute
+39,1,15,24,Hinge,§ 53b Gesetz über das Kreditwesen,,BJNR008810961_KredWG_19981231_000329,statute
+39,0,1,37,Sink,§ 1 Gesetz über die Angelegenheiten der Vertriebenen und Flüchtlinge,,BJNR002010953_BVFG_19991231_000003,statute
+38,0,34,3,Source,§ 100c Strafprozeßordnung,,BJNR006290950_StPO_19981231_000331,statute
+38,0,2,35,Sink,"§ 10 Sozialgesetzbuch (SGB) Fünftes Buch (V) - Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes v. 20. Dezember 1988, BGBl. I S. 2477)",,BJNR024820988_SGB-5_19981231_000042,statute
+38,0,5,32,Hinge,"§ 2 Siebtes Buch Sozialgesetzbuch - Gesetzliche Unfallversicherung - (Artikel 1 des Gesetzes vom 7. August 1996, BGBl. I S. 1254)",,BJNR125410996_SGB-7_19981231_000006,statute
+38,0,2,35,Sink,§ 10 Verwaltungskostengesetz,,BJNR008210970_VwKostG_19981231_000026,statute
+37,1,12,26,Hinge,§ 10 Gesetz über das Kreditwesen,,BJNR008810961_KredWG_19981231_000076,statute
+37,2,4,35,Hinge,§ 2 Gesetz über den Verkehr mit Arzneimitteln,,BJNR024480976_AMG-1976_19990331_000004,statute
+37,0,36,0,Source,§ 49 Straßenverkehrs-Ordnung,,BJNR015650970_StVO_20001230_000278,regulation
+37,0,36,0,Source,§ 70 Verordnung zur Durchführung des Außenwirtschaftsgesetzes,,BJNR026710986_AWV-1986_19981231_000360,regulation
+36,0,33,2,Source,§ 4 Verordnung über das Verfahren zum Risikostrukturausgleich in der gesetzlichen Krankenversicherung,,BJNR005500994_RSAV_19981231_000023,regulation
+36,0,4,31,Hinge,§ 20 Einkommensteuergesetz,,BJNR010050934_EStG_19981231_000300,statute
+36,0,35,0,Source,§ 6 Justizbeitreibungsgesetz,,BJNR002980937_JBeitrO_19981231_000020,statute
+36,0,0,35,Sink,Art 10 Grundgesetz für die Bundesrepublik Deutschland,,BJNR000010949_GG_20001201_000044,statute
+36,0,0,35,Sink,§ 767 Zivilprozessordnung,,BJNR005330950_ZPO_19981231_002008,statute
+36,0,1,34,Sink,Art 7 Schlußvorschriften Gesetz zur Neuregelung des Fremdrenten- und Auslandsrentenrechts und zur Anpassung der Berliner Rentenversicherung an die Vorschriften des Arbeiterrentenversicherungs-Neuregelungsgesetzes und des Angestelltenversicherungs-Neuregelungsgesetzes,,BJNR000939960_FANG_19990430_000066,statute
+35,0,30,4,Hinge,§ 334 Handelsgesetzbuch,,BJNR002190897_HGB_19981231_000989,statute
+35,0,33,1,Source,§ 341n Handelsgesetzbuch,,BJNR002190897_HGB_19981231_001144,statute
+35,0,34,0,Source,§ 43 Luftverkehrs-Ordnung,,BJNR006520963_LuftVO_19990228_000201,regulation
+35,0,29,5,Hinge,§ 395 Strafprozeßordnung,,BJNR006290950_StPO_19981231_001432,statute
+35,0,30,4,Hinge,§ 1908i Bürgerliches Gesetzbuch,,BJNR001950896_BGB_19981231_004233,statute
+34,2,8,28,Hinge,§ 6 Gesetz zur Regelung offener Vermögensfragen,,BJNR211590990_VermG_19981231_000047,statute
+34,0,33,0,Source,Übersicht Gesetz über Kosten der Gerichtsvollzieher,,BJNR008870957_GVollzKostG_19981231_000002,statute
+34,0,32,1,Source,§ 407 Aktiengesetz,,BJNR010890965_AktG_19981231_001307,statute
+34,0,0,33,Sink,§ 30 Gesetz über die Kosten in Angelegenheiten der freiwilligen Gerichtsbarkeit,,BJNR009600957_KostO_19981231_000102,statute
+34,0,3,30,Sink,§ 28 Gesetz zur Angleichung des Sozialversicherungsrechts im Saarland an das im übrigen Bundesgebiet geltende Recht,,BJNR004020963_SVSaarAnglG_20050930_000047,statute
+33,0,31,1,Source,§ 340n Handelsgesetzbuch,,BJNR002190897_HGB_19981231_001077,statute
+33,0,32,0,Source,§ 46 Bergverordnung für den Festlandsockel,,BJNR005540989_FlsBergV_20011106_000175,regulation
+33,0,31,1,Source,§ 5 Verordnung über die Prüfung zum anerkannten Abschluß Geprüfte Werkschutzfachkraft,,BJNR012320982_WerkSchFKrPrV_20051231_000020,regulation
+33,0,32,0,Source,§ 57 Betriebsordnung für Luftfahrtgerät,,BJNR002620970_LuftBO_19990930_000164,regulation
+33,0,0,32,Sink,§ 367 Gesetz über den Lastenausgleich,,BJNR004460952_LAG_19990630_000627,statute
+32,0,25,6,Hinge,§ 138 Strafgesetzbuch,,BJNR001270871_StGB_19981231_000730,statute
+32,0,13,18,Hinge,"§ 62 Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen, Geräusche, Erschütterungen und ähnliche Vorgänge",,BJNR007210974_BImSchG_19990202_000277,statute
+32,3,7,27,Hinge,§ 2 Einkommensteuergesetz,,BJNR010050934_EStG_19981231_000013,statute
+32,0,31,0,Source,§ 61 Seeschiffahrtsstraßen-Ordnung,,BJNR006410971_SeeSchStrO-1971_19990930_000211,regulation
+32,0,31,0,Source,§ 93 Gesetz über Agrarstatistiken,,BJNR004690989_AgrStatG_19981231_000218,statute
+32,0,4,27,Hinge,§ 32 Luftverkehrsgesetz,,BJNR006810922_LuftVG_19990228_000216,statute
+32,0,0,31,Sink,§ 80 Verwaltungsgerichtsordnung,,BJNR000170960_VwGO_19981231_000211,statute
+32,0,30,1,Source,§ 5 Strafgesetzbuch,,BJNR001270871_StGB_19981231_000015,statute
+32,0,0,31,Sink,§ 49 Strafgesetzbuch,,BJNR001270871_StGB_19981231_000141,statute
+32,1,6,26,Hinge,§ 9 Gesetz zur Regelung der Seefischerei und zur Durchführung des Fischereirechts der Europäischen Union,,BJNR008760984_SeeFischG_20011106_000028,statute
+31,1,27,4,Hinge,"Art 1 Gesetz zur Beschränkung des Brief-, Post- und Fernmeldegeheimnisses",,BJNR009490968_G10_19990621_000002,statute
+31,0,30,0,Source,§ 20 Gesetz über die Rechnungslegung von bestimmten Unternehmen und Konzernen,,BJNR011890969_PublG_20000308_000076,statute
+31,0,2,28,Sink,§ 33 Gesetz über die Versorgung der Opfer des Krieges,,BJNR104530960_BVG_19981231_000303,statute
+31,0,28,2,Source,§ 20 Rechtspflegergesetz,,BJNR020650969_RPflG-1969_19981231_000056,statute
+31,0,1,29,Sink,§ 97 Abgabenordnung,,BJNR006130976_AO-1977_19981231_000297,statute
+30,0,28,1,Source,§ 48 Gesetz über die Eröffnungsbilanz in Deutscher Mark und die Kapitalneufestsetzung,,BJNR211690990_DMBilG_20000308_000243,statute
+30,1,16,14,Hinge,§ 5 Körperschaftsteuergesetz,,BJNR025990976_KStG-1977_19981231_000017,statute
+30,0,10,19,Hinge,§ 1065 Zivilprozessordnung,,BJNR005330950_ZPO_19981231_002893,statute
+30,0,0,29,Sink,§ 93 Abgabenordnung,,BJNR006130976_AO-1977_19981231_000266,statute
+30,0,0,29,Sink,§ 14 Gesetz über technische Arbeitsmittel,,BJNR007170968_TechArbmG_20001230_000064,statute
+30,0,25,4,Hinge,§ 374 Strafprozeßordnung,,BJNR006290950_StPO_19981231_001356,statute
+30,1,2,28,Sink,§ 3 Gesetz über die Aufgaben des Bundes auf dem Gebiet der Binnenschiffahrt,,BJNR203170956_BinSchG_19991231_000011,statute

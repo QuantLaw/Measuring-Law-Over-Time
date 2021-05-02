@@ -1,0 +1,34 @@
+\documentclass[varwidth, border=0pt]{standalone}
+
+\usepackage{times}      % Loads the Times-Roman Fonts
+\usepackage{mathptmx}   % Loads the Times-Roman Math Fonts
+\usepackage{subcaption}
+\usepackage[labelfont={bf,sf},%
+labelsep=period,%
+justification=centering,
+labelformat=parens,labelsep=quad,skip=3pt,font=scriptsize]{caption}
+\usepackage{graphicx}
+
+\begin{document}
+	
+	\begin{figure}
+		\centering
+		\begin{subfigure}{0.5\linewidth}
+			\includegraphics[width=\linewidth]{../../graphics/variance_infomap_runs_us_reg_nmi}
+			\subcaption{United States (Normalized Mutual Information)}
+		\end{subfigure}~%
+		\begin{subfigure}{0.5\linewidth}
+			\includegraphics[width=\linewidth]{../../graphics/variance_infomap_runs_de_reg_nmi}
+			\subcaption{Germany (Normalized Mutual Information)}
+		\end{subfigure}
+		\begin{subfigure}{0.5\linewidth}
+			\includegraphics[width=\linewidth]{../../graphics/variance_infomap_runs_us_reg_rand}
+			\subcaption{United States (Adjusted Rand Index)}
+		\end{subfigure}~%
+		\begin{subfigure}{0.5\linewidth}
+			\includegraphics[width=\linewidth]{../../graphics/variance_infomap_runs_de_reg_rand}
+			\subcaption{Germany (Adjusted Rand Index)}
+		\end{subfigure}
+	\end{figure}
+	
+\end{document}

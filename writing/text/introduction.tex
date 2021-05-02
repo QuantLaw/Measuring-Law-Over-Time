@@ -1,0 +1,46 @@
+% !TeX spellcheck = en_US
+% !TeX root = ../main.tex
+\section{Introduction}
+\label{sec:introduction}
+
+Originating from mathematics and physics, complexity science has been successfully applied in the study of social phenomena \cite{mitchell2009,miller2009}. 
+More recently, it was introduced as an approach to gain a quantitative understanding of the structure and evolution of law \cite{ruhl2017}. 
+While legal scholars have long used concepts and terminology from complexity science in legal theory \cite{murray2018,ruhl1995,scott1993},
+research has also called for the development of computational models, methods, and metrics to describe how law evolves in practice \cite{ruhl2015}.
+
+Network analysis, a critical tool for understanding many complex systems \cite{amaral2004,albert2002,watts1998}, has proven particularly useful for scientific work answering this call.
+It has been used, inter alia, to analyze network data derived from decisions by national courts \cite{coupette2019,winkels2019,black2013,lupu2013,bommarito2011,cross2010,fowler2007},
+international courts \cite{olsen2020,alschner2018,larsson2017,tarissan2016a,panagis2015,pelc2014,lupu2012},
+and international tribunals \cite{charlotin2017, langford2017},
+as well as from statutes (i.e., rules promulgated by the legislative branch of government) \cite{katz2020,coupette2019a,boulet2018,koniaris2018,li2015,katz2014,bommarito2010},
+constitutions \cite{lee2019,rutherford2018,rockmore2017},
+and international treaties \cite{boulet2019,alschner2016,kim2013,kinne2013,saban2010}.
+Relevant work in this context explored, for example, which characteristics of complex systems occur in statutory law \cite{katz2020,koniaris2018,li2015}, how references to judicial decisions are used to shape legal arguments \cite{larsson2017,black2013,lupu2013}, or where social dynamics exist between judges or international arbitrators \cite{katz2010,langford2017}.
+The network analytical methods employed include centrality measures, clustering, and degree distributions \cite{katz2020,coupette2019,winkels2019,lee2019,alschner2016}.
+However, while all studies examine network representations of legal document collections, the data models and methods employed vary widely, which makes it hard to assess the quality of individual results and compare findings across studies.
+Furthermore, most of this research considers one legal document type only, 
+and some important categories of legal documents, most prominently regulations (i.e., rules promulgated by the executive branch of government with authorization of the legislative branch of government), have---to the best of our knowledge---not received any network analytic attention.
+
+This points to two gaps in the literature: 
+First, on the methodological side, there exists no comprehensive framework for quantitative legal document analysis using network analytical tools.
+Such a framework should be flexible in three ways:
+It should (1) produce sensible results for different document types, countries, and time periods, 
+(2) allow us to explore document collections of vastly different sizes, 
+and (3) offer insights on the global (\emph{macro}), intermediate (\emph{meso}), and local (\emph{micro}) level of analysis. 
+Second, on the empirical side, there is a lack of studies that combine multiple legal document types or include regulations.
+
+In this article, we take a step toward filling both gaps.
+We offer a comprehensive framework for analyzing legal documents as multi-dimensional, dynamic document networks 
+and demonstrate its utility by applying it to an original dataset of statutes and regulations from two different countries, the United States and Germany, that spans more than twenty years ($1998$--$2019$).
+Our framework provides tools for assessing the size and connectivity of the legal system as viewed through the lens of specific document collections as well as for profiling individual legal documents over time. 
+It goes beyond the existing literature, inter alia, by adapting network analytical methods to the peculiarities of legal documents, allowing the joint examination of multiple document types, and enabling temporal analysis.
+Implementing the framework for our dataset, we find that the United States legal system is increasingly dominated by regulations, 
+whereas the German legal system remains governed by statutes, 
+regardless of whether we measure the systems at the macro, the meso, or the micro level.
+
+The remainder of the paper is structured as follows.
+In Section~\ref{sec:data}, we specify our network model of legal documents and detail how we instantiate it to analyze statutes and regulations in the United States and Germany.
+Section~\ref{sec:methods} describes our methodological framework,
+and the results of applying this framework to our original dataset are presented in Section~\ref{sec:results}.
+We conclude by discussing the strengths and weaknesses of our approach in Section~\ref{sec:discussion}, where we also identify avenues for future research. 
+Our exposition uses the basic terminology of graphs and networks; for textbook introductions, see \cite{easley2010,barabasi2016,newman2018}.
